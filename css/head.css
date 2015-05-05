@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+
+#head
+{
+    background-color: #FFF200;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #073af8;
+    padding-top: 5px;
+    border-radius: 20px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+
+
+}
+
+#bdy{
+    background-image: url("../images/bg.png");
+    padding-top: 20px;
+
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+#form{
+    background-color: #ffffff;
+    padding: 10%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+#img1{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: -14px;
+
+}

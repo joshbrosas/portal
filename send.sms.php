@@ -1,0 +1,1 @@
+<a href="message_type=SEND&mobile_number=639096150311&shortcode=29290885522&message_id=ccc81279fcc048d1a6fcc52ed4c13255&message=dhap&client_id=cc1a42f7668dd6e72d3aacde99c8fd8f3918142735c42ab3e8d9a431d53d5f39&secret_key=e3decde5b0a7038e8e88af221d07187496ee50ddcff6e586f9d379b4009fff48">Send</a>
